@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @catraf
+- 👋  Hi, I’m Catherine aka @catraf
 - 👀  I’m interested in web app development, no-code + anything to do with learning.
 - 🌱  I’m currently learning Javascript.
 - 💞️  I’m looking to collaborate on educational + open source projects.
